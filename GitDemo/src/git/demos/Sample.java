@@ -1,6 +1,6 @@
-package mydemos;
+package git.demos;
 
-public class MyDemoTest {
+public class Sample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
